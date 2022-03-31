@@ -1,0 +1,3 @@
+"feature 1 completed" 
+"feature 2 completed" 
+"feature 3 completed" 
